@@ -2,18 +2,18 @@ Config = {}
 
 Config.Locale = 'es'
 
-Config.ScriptName = 'esx_mcdonaldsjob'
-Config.JobName = 'mcdonalds'
+Config.ScriptName = 'esx_bola8job'
+Config.JobName = 'bola8'
 Config.BossGradeLabel = 'boss'
 
 Config.Locations = {
-    ['garage']          = { pos = {x = 115.6, y = 279.2, z = 109.96} },
-    ['garage_spawn']    = { pos = {x = 115.6, y = 279.2, z = 109.96}, heading = 341.68 },
-    ['garage_dv']       = { pos = {x = 106.56, y = 282.4, z = 109.96} },
-    ['boss']            = { pos = {x = 84.08, y = 293.48, z = 110.2} },
-    ['shop']            = { pos = {x = 111.76, y = 302.28, z = 109.96} },
+    ['garage']          = { pos = {x = -1586.68, y = -1001.04, z = 13.04} },
+    ['garage_dv']       = { pos = {x = -1586.68, y = -1001.04, z = 13.04} },
+    ['garage_spawn']    = { pos = {x = -1586.68, y = -1001.04, z = 13.04}, heading = 138.8 },
+    ['boss']            = { pos = {x = -1576.56, y = -983.44, z = 13.12} },
+    ['shop']            = { pos = { x = -176.797, y = 302.0845, z = 97.460 } },
     ['cloakroom']       = { pos = {x = 0.0, y = 0.0, z = 0.0} },
-    ['armory']          = { pos = {x = 95.08, y = 289.96, z = 110.2} },
+    ['armory']          = { pos = {x = 890.96, y = -184.64, z = 73.6} },
 }
 
 Config.GarageCars = {
